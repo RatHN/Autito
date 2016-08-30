@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutitoSoft_", "AutitoSoft_\AutitoSoft_.csproj", "{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sketch1", "..\..\..\..\Desktop\Autito\Sketch1\Sketch1\Sketch1.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://neryortez.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = ..\\..\\..\\..\\Desktop\\Autito\\Sketch1\\Sketch1\\Sketch1.vcxproj
+		SccProjectName0 = ../../Sketch1/Sketch1
+		SccLocalPath0 = ..\\..\\..\\..\\Desktop\\Autito\\Sketch1\\Sketch1
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = AutitoSoft_\\AutitoSoft_.csproj
+		SccProjectName2 = AutitoSoft_
+		SccLocalPath2 = AutitoSoft_
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{75BF8191-64D4-40BE-A5B1-5BFE5AA42C7D}.Release|Win32.ActiveCfg = Release|Any CPU
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Win32.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Win32.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
